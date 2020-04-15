@@ -1,0 +1,11 @@
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\bin\Debug\netcoreapp3.0\ResponsiPemrograman2801.exe
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\bin\Debug\netcoreapp3.0\ResponsiPemrograman2801.deps.json
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\bin\Debug\netcoreapp3.0\ResponsiPemrograman2801.runtimeconfig.json
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\bin\Debug\netcoreapp3.0\ResponsiPemrograman2801.runtimeconfig.dev.json
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\bin\Debug\netcoreapp3.0\ResponsiPemrograman2801.dll
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\bin\Debug\netcoreapp3.0\ResponsiPemrograman2801.pdb
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\obj\Debug\netcoreapp3.0\ResponsiPemrograman2801.csprojAssemblyReference.cache
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\obj\Debug\netcoreapp3.0\ResponsiPemrograman2801.AssemblyInfoInputs.cache
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\obj\Debug\netcoreapp3.0\ResponsiPemrograman2801.AssemblyInfo.cs
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\obj\Debug\netcoreapp3.0\ResponsiPemrograman2801.dll
+D:\fika\ResponsiPemrograman2801\ResponsiPemrograman2801\obj\Debug\netcoreapp3.0\ResponsiPemrograman2801.pdb
